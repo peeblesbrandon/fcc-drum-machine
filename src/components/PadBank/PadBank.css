@@ -1,0 +1,12 @@
+div #pad-bank {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    justify-content: center;
+    /* align-items: baseline; */
+    padding: 1rem;
+    max-width: 800px;
+    height: auto;
+    background-color: black;
+    border-radius: 5%;
+}
