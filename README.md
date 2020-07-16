@@ -1,3 +1,10 @@
+# Drum Machine
+This React JS app renders a drum pad that plays various instruments and sounds upon click or appropriate key press. It was built according to freeCodeCamp [specifications](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-drum-machine). You can test out the app here: [https://peeblesbrandon.github.io/fcc-drum-machine/](https://peeblesbrandon.github.io/fcc-drum-machine/)
+
+
+
+## Standard create-react-app readme below here
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
